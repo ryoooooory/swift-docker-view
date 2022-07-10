@@ -4,6 +4,10 @@
 
 **Dockerview** is a mac standard dock-like view
 
+
+https://user-images.githubusercontent.com/34418898/178141271-49169b32-7923-4b0c-9ac0-ca282707e499.mov
+
+
 ## Usage
 
 ```swift
