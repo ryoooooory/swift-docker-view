@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "DockerView"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "DockerView like Mac Dock"
   spec.homepage     = "https://github.com/ryoooooory/swift-docker-view.git"
   spec.license        = { :type => 'MIT', :file => 'LICENSE' }
