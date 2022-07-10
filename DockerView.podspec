@@ -10,10 +10,11 @@ Pod::Spec.new do |spec|
   spec.name         = "DockerView"
   spec.version      = "0.0.1"
   spec.summary      = "DockerView like Mac Dock"
-  spec.homepage     = "http://EXAMPLE/DockerView"
+  spec.homepage     = "https://github.com/ryoooooory/swift-docker-view.git"
   spec.license        = { :type => 'MIT', :file => 'LICENSE' }
   spec.author             = { "Ryo Oshima" => "gryooooooryg@gmail.com" }
-  spec.platform     = :ios, "12.0"
-  spec.source       = { :git => "http://EXAMPLE/DockerView.git", :tag => "#{spec.version}" }
+  spec.platform     = :ios, "13.0"
+  spec.swift_version  = "5.0"
+  spec.source       = { :git => "https://github.com/ryoooooory/swift-docker-view.git", :tag => "#{spec.version}" }
   spec.source_files  = "DockerView", "DockerView/**/*.swift"
 end
